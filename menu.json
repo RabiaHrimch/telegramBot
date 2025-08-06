@@ -1,0 +1,23 @@
+{
+  "languages": ["ar", "en", "ru"],
+  "menu": {
+    "ar": {
+      "🏠 القائمة الرئيسية": {
+        "🛂 التأشيرات": "https://t.me/your_channel?start=visa30",
+        "🏠 الإيجار": "https://t.me/your_channel?start=rent"
+      }
+    },
+    "en": {
+      "🏠 Main Menu": {
+        "🛂 Visas": "https://t.me/your_channel?start=visa30",
+        "🏠 Rent": "https://t.me/your_channel?start=rent"
+      }
+    },
+    "ru": {
+      "🏠 Главное меню": {
+        "🛂 Визы": "https://t.me/your_channel?start=visa30",
+        "🏠 Аренда": "https://t.me/your_channel?start=rent"
+      }
+    }
+  }
+}
